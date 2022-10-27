@@ -25,3 +25,22 @@ Additional considerations:
     -   What needs to live in a persistence layer?
 -   Is there some state we need to initialize?
 -   Ask: should any of this work be abstracted into functions? (i.e., is the work complicated? can it be reused?)
+
+<h1>Plan</h1>
+<p><strong>*</strong> set up HTML and CSS, making sure I have enough room to have css class to show and hide elements</p>
+
+<p><strong>*</strong> add event listener to my button</p>
+
+<p><strong>*</strong> Pick random number between 0 and length -1</p>
+
+<p><strong>*</strong> hide prompt</p>
+
+<p><strong>*</strong> display image</p>
+
+<p><strong>*</strong> set content of answer p to random choice</p>
+
+<p><strong>*</strong> add event listener to reset button</p>
+
+<p><strong>*</strong> show prompt</p>
+
+![](./assets/wireframefortune.png)
