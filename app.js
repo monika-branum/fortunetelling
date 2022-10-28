@@ -1,6 +1,11 @@
 /* Imports */
 
 /* Get DOM Elements */
+getElementByID('reset');
+getElementByID('submit');
+SubmitBtn.addEventListener('click');
+
+promptSection.classList.toggle('hide');
 
 /* State */
 
